@@ -1,6 +1,17 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🎓 3rd Year B.Tech Computer Science & Engineering Student<br><br>💡 Passionate about building AI-powered applications that solve real-world problems.<br><br>🚀 Currently developing innovative projects in AI, Full Stack Development, and IoT.<br><br>🌱 Continuously learning new technologies and improving my development skills every day.<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Cloud Computing, and Generative AI.<br><br>💻 I enjoy creating scalable applications, exploring emerging technologies, and contributing to impactful solutions.<br><br>🏆 Active participant in hackathons, innovation challenges, and technical events.<br><br>🎯 My goal is to become a skilled Software Engineer, AI Developer, and Startup Founder who creates technology that makes a difference.<br><br>⚡ "Faith in Heart ❤️ | Fire in Soul 🔥 | Building the Future with Code 🚀"
+## 👨‍💻 About Me
 
+🎓 3rd Year B.Tech Computer Science & Engineering Student
+
+💡 Passionate about building AI-powered applications that solve real-world problems
+
+🚀 Currently developing projects in AI, Full Stack Development, and IoT
+
+🤖 Focused on Artificial Intelligence, Machine Learning, and Cloud Computing
+
+🏆 Active participant in hackathons and technical innovation challenges
+
+🎯 Aspiring Software Engineer and AI Developer building technology that makes a difference
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathkowshik25) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bharathkowshik25) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kowshik3453) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathkowshik25) 
@@ -22,6 +33,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bharathkowshik25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bharathkowshik25&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
