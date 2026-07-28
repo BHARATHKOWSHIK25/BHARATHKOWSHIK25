@@ -38,6 +38,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bharathkowshik25&theme=tokyonight&hide_border=false&layout=compact)
 
-#
+# Visit Count
 
 [![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
