@@ -38,10 +38,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bharathkowshik25&theme=tokyonight&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bharathkowshik25&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
+#
 
 [![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
