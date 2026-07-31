@@ -100,7 +100,6 @@ IoT-based smart sleep monitoring solution.
 - 🏆 AI & ML Internship
 - 📜 Google AI Learning
 - 📜 Kaggle AI Certifications
-- 📜 NPTEL Quantum Computing
 - 🚀 Multiple Hackathons & Innovation Challenges
 
 
