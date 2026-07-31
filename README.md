@@ -1,6 +1,5 @@
 from textwrap import dedent
 import pypandoc
-
 md = dedent(r"""
 # Hi 👋, I'm Bharath Kowshik
 
@@ -9,8 +8,6 @@ md = dedent(r"""
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Full+Stack+Developer;Building+Technology+that+Solves+Real+World+Problems;Hackathon+Enthusiast;Always+Learning+New+Technologies" />
 </p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -22,8 +19,6 @@ md = dedent(r"""
 - 🌱 Currently learning AI Agents, LLMs, and scalable cloud applications.
 - 🎯 Goal: Become a Software Engineer & AI Engineer building products used by millions.
 
----
-
 ## 🚀 Current Focus
 
 - 🏥 QueueLess AI
@@ -33,14 +28,12 @@ md = dedent(r"""
 - 👁️ VisionMate AI
 - 😴 SleepMate AI
 
----
 
 ## 💡 Areas of Interest
 
 Artificial Intelligence • Machine Learning • Generative AI • NLP • Computer Vision •
 Full Stack Development • Cloud Computing • Flutter • IoT • Software Engineering • Data Analytics
 
----
 
 ## 🌐 Connect With Me
 
@@ -48,8 +41,6 @@ Full Stack Development • Cloud Computing • Flutter • IoT • Software Engi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bharathkowshik-portfolio.netlify.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kowshik3453)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bharathkowshik25)
-
----
 
 # 🛠 Tech Stack
 
@@ -82,7 +73,6 @@ TensorFlow • Pandas • Anaconda
 ## 🎨 Design
 Figma • Canva • Photoshop • Illustrator • Premiere Pro • After Effects • Blender
 
----
 
 # ⭐ Featured Projects
 
@@ -104,7 +94,6 @@ Accessibility assistant for visually impaired users.
 ### 😴 SleepMate AI
 IoT-based smart sleep monitoring solution.
 
----
 
 # 🏅 Achievements
 
@@ -114,7 +103,6 @@ IoT-based smart sleep monitoring solution.
 - 📜 NPTEL Quantum Computing
 - 🚀 Multiple Hackathons & Innovation Challenges
 
----
 
 # 📊 GitHub Stats
 
@@ -124,27 +112,5 @@ IoT-based smart sleep monitoring solution.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bharathkowshik25&layout=compact&theme=tokyonight)
 
----
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bharathkowshik25&theme=radical&margin-w=6)
-
----
-
-## 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=12)
-
----
-
-## ⚡ Fun Fact
-
-> "I enjoy building AI-powered products that solve real-world problems and create meaningful impact."
-
-⭐ **If you like my work, consider starring my repositories!**
-""")
-
-outfile="/mnt/data/README.md"
-pypandoc.convert_text(md,'md',format='md',outputfile=outfile,extra_args=['--standalone'])
-print(outfile)
