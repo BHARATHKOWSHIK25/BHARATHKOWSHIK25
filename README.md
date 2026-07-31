@@ -1,175 +1,150 @@
+from textwrap import dedent
+import pypandoc
+
+md = dedent(r"""
+# Hi 👋, I'm Bharath Kowshik
+
+<h3 align="center">AI Developer • Full Stack Developer • Computer Science Student • IoT Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Full+Stack+Developer;Building+Technology+that+Solves+Real+World+Problems;Hackathon+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-🎓 3rd Year B.Tech Computer Science & Engineering Student
+- 🎓 **3rd Year B.Tech Computer Science & Engineering Student**
+- 🏫 **KKR & KSR Institute of Technology & Sciences, Guntur**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and IoT**
+- 🚀 Building real-world AI products with meaningful social impact.
+- 🏆 Active participant in hackathons, innovation challenges, and technical events.
+- 🌱 Currently learning AI Agents, LLMs, and scalable cloud applications.
+- 🎯 Goal: Become a Software Engineer & AI Engineer building products used by millions.
 
-💡 Passionate about building AI-powered applications that solve real-world problems
+---
 
-🚀 Currently developing projects in AI, Full Stack Development, and IoT
+## 🚀 Current Focus
 
-🤖 Focused on Artificial Intelligence, Machine Learning, and Cloud Computing
+- 🏥 QueueLess AI
+- 🍽️ QuickServe
+- 🤖 HomeFix AI
+- 🌾 Farm2Buyer
+- 👁️ VisionMate AI
+- 😴 SleepMate AI
 
-🏆 Active participant in hackathons and technical innovation challenges
+---
 
-🎯 Aspiring Software Engineer and AI Developer building technology that makes a difference
+## 💡 Areas of Interest
+
+Artificial Intelligence • Machine Learning • Generative AI • NLP • Computer Vision •
+Full Stack Development • Cloud Computing • Flutter • IoT • Software Engineering • Data Analytics
+
+---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathkowshik25) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bharathkowshik25) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kowshik3453) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathkowshik25) 
 
-
-# 💻 Programming Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathkowshik25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bharathkowshik-portfolio.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kowshik3453)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bharathkowshik25)
 
 ---
 
-# 🌐 Web Technologies
+# 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=plastic&logo=windi-css&logoColor=white)
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
----
+## 🌐 Frontend
+React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Vite
 
-# ⚙️ Frontend Frameworks & Libraries
+## ⚙ Backend
+Node.js • Express • FastAPI • NestJS • .NET
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+## 📱 Mobile
+Flutter • React Native
 
----
+## ☁ Cloud
+Firebase • Google Cloud • Azure • Vercel • Netlify • Render
 
-# 🚀 Backend Frameworks
+## 🗄 Databases
+MongoDB • MySQL • PostgreSQL
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white)
+## 🤖 AI / ML
+TensorFlow • Pandas • Anaconda
 
----
-
-# 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+## 🎨 Design
+Figma • Canva • Photoshop • Illustrator • Premiere Pro • After Effects • Blender
 
 ---
 
-# ☁️ Cloud & Hosting
+# ⭐ Featured Projects
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+### 🏥 QueueLess AI
+AI-powered predictive queue management system.
 
----
+### 🍽 QuickServe
+Smart food pre-ordering and sports booking platform.
 
-# 🗄️ Databases
+### 🤖 HomeFix AI
+AI assistant for appliance troubleshooting.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=plastic&logo=CrateDB&logoColor=white)
+### 🌾 Farm2Buyer
+Direct farmer-to-consumer marketplace.
 
----
+### 👁 VisionMate AI
+Accessibility assistant for visually impaired users.
 
-# 🤖 AI / Machine Learning / Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+### 😴 SleepMate AI
+IoT-based smart sleep monitoring solution.
 
 ---
 
-# 🛠️ DevOps & Servers
+# 🏅 Achievements
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
-
----
-
-# 🧪 Testing
-
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B)
+- 🏆 AI & ML Internship
+- 📜 Google AI Learning
+- 📜 Kaggle AI Certifications
+- 📜 NPTEL Quantum Computing
+- 🚀 Multiple Hackathons & Innovation Challenges
 
 ---
 
-# 🎨 Design & Creative Tools
+# 📊 GitHub Stats
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![](https://github-readme-stats.shion.dev/api?username=bharathkowshik25&theme=tokyonight&show_icons=true)
 
-### Adobe Suite
+![](https://streak-stats.demolab.com/?user=bharathkowshik25&theme=tokyonight)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bharathkowshik25&layout=compact&theme=tokyonight)
 
 ---
-
-# 🎮 Game Development
-
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
-
----
-
-# 🔗 Blockchain
-
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
-
----
-
-# 🔌 Hardware & IoT
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=bharathkowshik25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://streak-stats.demolab.com/?user=bharathkowshik25&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=bharathkowshik25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bharathkowshik25&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+![](https://github-profile-trophy.vercel.app/?username=bharathkowshik25&theme=radical&margin-w=6)
 
-### ✍️ Random Dev Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+## 📈 Profile Views
 
+![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=12)
 
-[![](https://visitcount.itsvg.in/api?id=bharathkowshik25&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+---
 
+## ⚡ Fun Fact
+
+> "I enjoy building AI-powered products that solve real-world problems and create meaningful impact."
+
+⭐ **If you like my work, consider starring my repositories!**
+""")
+
+outfile="/mnt/data/README.md"
+pypandoc.convert_text(md,'md',format='md',outputfile=outfile,extra_args=['--standalone'])
+print(outfile)
