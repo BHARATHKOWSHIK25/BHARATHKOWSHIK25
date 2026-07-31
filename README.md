@@ -1,6 +1,3 @@
-from textwrap import dedent
-import pypandoc
-md = dedent(r"""
 # Hi 👋, I'm Bharath Kowshik
 
 <h3 align="center">AI Developer • Full Stack Developer • Computer Science Student • IoT Enthusiast</h3>
